@@ -1,7 +1,7 @@
 import React from 'react';
 import "./index.css";
 
-function Header() {
+export default function Header() {
     return (
         <div className="jumbotron text-center header-container mb-0">
             <h1>Employee Directory</h1>
@@ -9,5 +9,3 @@ function Header() {
         </div>
     );
 }
-
-export default Header;

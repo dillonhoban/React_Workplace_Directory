@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_Workplace_Directory/static/css/main.6894ec4f.chunk.css",
+    "main.js": "/React_Workplace_Directory/static/js/main.30bfa231.chunk.js",
+    "main.js.map": "/React_Workplace_Directory/static/js/main.30bfa231.chunk.js.map",
+    "runtime-main.js": "/React_Workplace_Directory/static/js/runtime-main.7b4f0209.js",
+    "runtime-main.js.map": "/React_Workplace_Directory/static/js/runtime-main.7b4f0209.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React_Workplace_Directory/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7f391bcd.chunk.js": "/React_Workplace_Directory/static/js/2.7f391bcd.chunk.js",
+    "static/js/2.7f391bcd.chunk.js.map": "/React_Workplace_Directory/static/js/2.7f391bcd.chunk.js.map",
+    "index.html": "/React_Workplace_Directory/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React_Workplace_Directory/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6894ec4f.chunk.css.map": "/React_Workplace_Directory/static/css/main.6894ec4f.chunk.css.map",
+    "static/js/2.7f391bcd.chunk.js.LICENSE.txt": "/React_Workplace_Directory/static/js/2.7f391bcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b4f0209.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7f391bcd.chunk.js",
+    "static/css/main.6894ec4f.chunk.css",
+    "static/js/main.30bfa231.chunk.js"
+  ]
+}
